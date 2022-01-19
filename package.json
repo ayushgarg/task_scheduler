@@ -1,0 +1,14 @@
+{
+  "name": "espire",
+  "version": "1.0.0",
+  "description": "Espire third round coding assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ayush Garg",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
