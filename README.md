@@ -1,7 +1,7 @@
 # task_scheduler
 
 Overview:
-The codebase provides a solution to arragne the tasks in the order of thier execution dependencies. 
+The codebase provides a solution to arrange the tasks in the order of their execution dependencies. 
 taskScheduler method is the exported module to achieve the requirement. 
 
 To Run:
